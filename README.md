@@ -2,6 +2,10 @@
 
 ![Picture1](https://github.com/user-attachments/assets/94a6f419-2766-4cd8-95c2-b05ad0394d50)
 
+<div align="center">
+	<img src="![Picture1](https://github.com/user-attachments/assets/94a6f419-2766-4cd8-95c2-b05ad0394d50)" alt="Editor" width="500">
+</div>
+
 Background: Concussion, a form of mild traumatic brain injury, is a significant problem that affects 150,000 Ontarians annually. Most individuals with concussion will recover within 1 to 3 months of their injury, however 15 to 30% of individuals will develop persisting post-concussion symptoms (PPCS). The prevalence of concussion highlights the need for effective triage systems.
 
 Objective: To develop the Acute Concussion Triage Avatar (ACT-A), a triage tool to be used to identify individuals in the acute and sub-acute stages post-concussion who are at high-risk for persisting symptoms and poor outcomes who should be referred to and seen in specialized concussion clinics.
