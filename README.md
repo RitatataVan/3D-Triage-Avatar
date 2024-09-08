@@ -1,4 +1,4 @@
-Development of an Acute Concussion Triage Avatar (ACT-A): Leveraging LLM for Standardized Patient Summaries
+# Development of an Acute Concussion Triage Avatar (ACT-A): Leveraging LLM for Standardized Patient Summaries
 
 Background: Concussion, a form of mild traumatic brain injury, is a significant problem that affects 150,000 Ontarians annually. Most individuals with concussion will recover within 1 to 3 months of their injury, however 15 to 30% of individuals will develop persisting post-concussion symptoms (PPCS). The prevalence of concussion highlights the need for effective triage systems.
 
