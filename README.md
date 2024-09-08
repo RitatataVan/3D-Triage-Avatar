@@ -1,6 +1,6 @@
 # Development of an Acute Concussion Triage Avatar (ACT-A): Leveraging LLM for Standardized Patient Summaries
 
-![Picture1](https://github.com/user-attachments/assets/94a6f419-2766-4cd8-95c2-b05ad0394d50)
+![Avatar Application Look](https://github.com/user-attachments/assets/a9160716-2b61-4e42-b039-8333ec975cb7)
 
 ## Background
 Concussion, a form of mild traumatic brain injury, is a significant problem that affects 150,000 Ontarians annually. Most individuals with concussion will recover within 1 to 3 months of their injury, however 15 to 30% of individuals will develop persisting post-concussion symptoms (PPCS). The prevalence of concussion highlights the need for effective triage systems.
@@ -14,5 +14,6 @@ ACT-A is a tool that integrates a speech recognition API to capture users' answe
 ## Demo
 https://www.youtube.com/watch?v=9VOpDaNNoYM
 
+
 ## Acknowledgement
-Thank you for T-CAIREM and UHN Support!
+Thanks for T-CAIREM and UHN Support!
